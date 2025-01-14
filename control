@@ -1,0 +1,9 @@
+Package: com.paradiseduo.dylibinject
+Name: DylibInject
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ParadiseDuo
+Author: ParadiseDuo
+Section: Tweaks
+Depends: mobilesubstrate,preferenceloader,applist
